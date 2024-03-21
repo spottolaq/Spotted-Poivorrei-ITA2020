@@ -16,7 +16,7 @@ The selection of accounts from which to collect the posts was largely determined
 
 **Spotted-Ita Access Request Form**
 
-If you would like to request access to corpus, please fill out the following form.
+If you would like to request access to corpus, please fill out [the following form](https://forms.gle/TWq9wnnLf8oCiHoc7).
 
 
 You need to fulfill the following conditions for your access request to be accepted:
