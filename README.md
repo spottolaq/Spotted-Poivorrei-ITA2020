@@ -28,7 +28,7 @@ You need to fulfill the following conditions for your access request to be accep
 
 ## Citation
 
-If you use the Spotted-Ita corpus in your research, please cite the following articles:
+If you use the Spotted-Poivorrei-ITA2020 corpus in your research, please cite the following articles:
 
 > Chiusaroli, F., Monti, J., Pierucci, M. L., & Nolano, G. 2020. “Spotto la quarantena": per una analisi dell’italiano scritto degli studenti universitari via social network in tempo di COVID-19. In Dell'Orletta, F., Monti, J., & Tamburini, F. (Eds.), Proceedings of the Seventh Italian Conference on Computational Linguistics CLiC-it 2020: Bologna, Italy, March 1-3, 2021. Torino: Accademia University Press. doi:10.4000/books.aaccademia.8365
 
